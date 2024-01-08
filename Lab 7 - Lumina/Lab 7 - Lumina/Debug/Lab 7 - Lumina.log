@@ -1,0 +1,5 @@
+﻿  Lab 7 - Lumina.cpp
+C:\FACULTATE\G3C\Lab 7 - Lumina\Lab 7 - Lumina\Lab 7 - Lumina.cpp(438,23): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+C:\FACULTATE\G3C\Lab 7 - Lumina\Lab 7 - Lumina\Lab 7 - Lumina.cpp(441,23): warning C4244: '/=': conversion from 'float' to 'int', possible loss of data
+C:\FACULTATE\G3C\Lab 7 - Lumina\Lab 7 - Lumina\Lab 7 - Lumina.cpp(587,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Lab 7 - Lumina.vcxproj -> C:\FACULTATE\G3C\Lab 7 - Lumina\Debug\Lab 7 - Lumina.exe
